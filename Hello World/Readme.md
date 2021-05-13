@@ -1,4 +1,4 @@
-<h2> Hello World Chrome Extension </h2>
+# Hello World Chrome Extension
 <p> A simple chrome extension, to get the idea of basic functionalities. Browser Action Extension stays in the tool bar and accessible at all times. This hello world extension is an example of browser action. </p>
 
 <h3> Hello World Extension contains: </h3>
