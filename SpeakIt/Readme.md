@@ -3,10 +3,12 @@
 <p>
 Speak It is an extension exclusively made to speak up the selected text.
 This extension is easy to use in following steps:
-- just select the text
-- right click on the text 
-- select SpeakIt extension 
-- It will speak the selected text for you. </p>
+<ul>
+  <li>just select the text</li>
+<li>right click on the text</li>
+<li>select SpeakIt extension </li>
+<li>It will speak the selected text for you. </li>
+</ul></p>
 
 <h3> SpeakIt Extension contains: </h3>
 <ul>
