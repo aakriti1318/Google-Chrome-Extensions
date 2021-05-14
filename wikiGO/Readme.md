@@ -2,10 +2,12 @@
 <p> A simple chrome extension, to get the idea of basic functionalities. Some extensions doesn't need any browser action extension nor page action extension.  </p>
 <p>WikiGo is an extension that avoid user to refer the selected text by opening a new tab and then searching it on Google. 
 This extension is easy to use in following steps:
-- just select the text
-- right click on the text 
-- select WikiGo extension 
-- It will directly redirect to the wikipedia page.</p>
+<ul>
+  <li>just select the text</li>
+  <li>right click on the text</li>
+  <li>select SpeakIt extension </li>
+  <li>It will directly redirect to the wikipedia page</li>
+</ul></p>
 
 <h3> WikiGO Extension contains: </h3>
 <ul>
